@@ -1,0 +1,23 @@
+.trending-line .trending-now {
+  background-color: #df01a5;
+}
+
+.search-submit {
+  text-align: right;
+  text-indent: -14px;
+  white-space: pre;
+  position: relative;
+  background-color: #088A08;
+}
+
+.figure-categories .cat-links a {
+  background-color: #2abf61;
+}
+
+.site-content .search-form .search-submit {
+  background-color: #088A08;
+}
+
+.woocommerce div.product form.cart .button {
+  padding-bottom: 18px;
+}
